@@ -2,6 +2,7 @@
 ![profile image](https://github.com/YaroslavChelentano/YaroslavChelentano/blob/master/profileImg.png)
 ### Hello, my name is Yaroslav. I love coding.
 - 😄 I’m currently working at <a href="https://everymatrix.com/?gclid=Cj0KCQjwpZT5BRCdARIsAGEX0zmybuDJMtC5KXVy_WK2ewSH4QG7rIEa4rKM9RBljlIx_9xyko0hL9IaApO_EALw_wcB">EveryMatrix</a>
+- 👯 I’m collaborating with <a href="https://github.com/AnastasiaChernikova">Anastasia Chernikova</a>. You can visit our youtube channel <a href="https://www.youtube.com/channel/UCuJioi5wEivb7bSqRpOtOIw?view_as=subscriber">КодоКлякса</a>
 - 📫 How to reach me: Skype: live:yaroslav.chelentano; Gmail: yaroslav.chelentano@gmail.com;
 - ⚡ Fun fact: I love rubber ducks✨.
 <!--
