@@ -1,11 +1,15 @@
-### Hi there 👋
 
+![profile image](https://github.com/YaroslavChelentano/YaroslavChelentano/blob/master/profileImg.png)
+### Hello, my name is Yaroslav. I love coding.
+- 😄 I’m currently working at <a href="https://everymatrix.com/?gclid=Cj0KCQjwpZT5BRCdARIsAGEX0zmybuDJMtC5KXVy_WK2ewSH4QG7rIEa4rKM9RBljlIx_9xyko0hL9IaApO_EALw_wcB">EveryMatrix</a>
+- 📫 How to reach me: Skype: live:yaroslav.chelentano; Gmail: yaroslav.chelentano@gmail.com;
+- ⚡ Fun fact: I love rubber ducks✨.
 <!--
 **YaroslavChelentano/YaroslavChelentano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
